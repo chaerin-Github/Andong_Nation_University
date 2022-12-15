@@ -19,7 +19,7 @@ Window화면 창 크기를 각각 210, 210, 1051, 700으로 크기를 지정하�
 
 
 
-# 컬러픽커 숨기기 기능 xaml.cpp
+# 컬러픽커 숨기고 보이는 기능 xaml.cpp
 ![image](https://user-images.githubusercontent.com/105805974/207751568-1bdc44a3-8f9c-4631-86ac-5aea8d24add6.png)
 
 if와 else문을 이용해 클릭했을때 각각 컬러픽커를 숨기게하거나 보이게 할 수 있습니다.
